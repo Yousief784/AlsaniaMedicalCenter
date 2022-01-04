@@ -1,0 +1,55 @@
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\bin\Debug\Alsaina.exe.config
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\bin\Debug\Alsaina.exe
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\bin\Debug\Alsaina.pdb
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.csprojResolveAssemblyReference.cache
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.toLogin.resources
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.Properties.Resources.resources
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.csproj.GenerateResource.Cache
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.exe
+c:\users\computer market\documents\visual studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.pdb
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.Add.resources
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.addDoctor.resources
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.login_Patient.resources
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.loginDoctor.resources
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.loginReception.resources
+C:\Users\computer market\Documents\Visual Studio 2015\Projects\Alsaina\Alsaina\obj\Debug\Alsaina.addPatient.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\bin\Debug\Alsaina.exe.config
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.exe
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.pdb
+C:\Users\computer market\Desktop\Alsaina\Alsaina\bin\Debug\Alsaina.exe
+C:\Users\computer market\Desktop\Alsaina\Alsaina\bin\Debug\Alsaina.pdb
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.csprojResolveAssemblyReference.cache
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.Add.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.addDoctor.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.loginDoctor.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.toLogin.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.login_Patient.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.addPatient.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.Properties.Resources.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.loginReception.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.csproj.GenerateResource.Cache
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.MainDoctorForm.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.MainPatientForm.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\bin\Debug\Alsaina.exe.config
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.exe
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.pdb
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\bin\Debug\Alsaina.exe
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\bin\Debug\Alsaina.pdb
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.csprojResolveAssemblyReference.cache
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.Add.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.addDoctor.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.loginDoctor.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.toLogin.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.login_Patient.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.addPatient.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.MainDoctorForm.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.MainPatientForm.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.printPatientReport.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.Properties.Resources.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.loginReception.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.csproj.GenerateResource.Cache
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.Add_Major.resources
+D:\المناهج\CS3\Project DrLobna\Alsaina\Alsaina\obj\Debug\Alsaina.Add_Reception.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.Add_Major.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.Add_Reception.resources
+C:\Users\computer market\Desktop\Alsaina\Alsaina\obj\Debug\Alsaina.printPatientReport.resources
